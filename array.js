@@ -122,5 +122,15 @@ console.log("Saya Punya", a+", "+b+", "+c+", "+d+", "+e+".")
 
 // case 2
 
+let kalimat = "belajar bersama dunia coding yuk";
+
+a = "belajar"
+b = "bersama"
+c = "dunia"
+d = "coding"
+e = "yuk"
+
+console.log([a,b,c,d,e])
+
 
 
