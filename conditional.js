@@ -1,20 +1,20 @@
 // case 1
 
-// var nilai = 75;
+var nilai = 75;
 
-// if (nilai >100){
-//     console.log("Charakter is Expert")
-// } else if (nilai >70 && nilai <=100){
-//     console.log("Charakter is Pro")
-// } else if (nilai >50 && nilai <=70){
-//     console.log("Charakter is Normal")
-// } else if (nilai >30 && nilai <=50){
-//     console.log("Charakter is Basic")
-// } else if (nilai <=30 && nilai >=0){
-//     console.log("Charakter is Beginner")
-// } else {
-//     console.log("masukkan angkanya yang benar guys")
-// }
+if (nilai >100){
+    console.log("Charakter is Expert")
+} else if (nilai >70 && nilai <=100){
+    console.log("Charakter is Pro")
+} else if (nilai >50 && nilai <=70){
+    console.log("Charakter is Normal")
+} else if (nilai >30 && nilai <=50){
+    console.log("Charakter is Basic")
+} else if (nilai <=30 && nilai >=0){
+    console.log("Charakter is Beginner")
+} else {
+    console.log("masukkan angkanya yang benar guys")
+}
 
 // case 2
 
