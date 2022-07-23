@@ -120,7 +120,7 @@ e = arloji[4]
 
 console.log("Saya Punya", a+", "+b+", "+c+", "+d+", "+e+".")
 
-// case 2
+// case 3
 
 let kalimat = "belajar bersama dunia coding yuk";
 
@@ -132,5 +132,10 @@ e = "yuk"
 
 console.log([a,b,c,d,e])
 
+// case 2
+
+let fruits = ["cherry","blueberry","avocado","apple","cranberry"]
+    fruits.sort();             
+    console.log(fruits)
 
 
